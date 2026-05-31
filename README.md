@@ -1,2 +1,2 @@
-# stats-with-python
+# Grokking-Statistics
 Stats and Probability with Python
